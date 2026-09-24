@@ -42,9 +42,8 @@
 - REST API
 - JSON
 - SQL
-- UML
-- GitHub
 - draw.io
+- PlantUML
 
 ## Роль в проекте
 
