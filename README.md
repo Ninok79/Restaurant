@@ -31,7 +31,9 @@
 
 ### Диаграммы
 
-- [Архитектура системы](diagrams/architecture.png)
+- [Use Case](diagrams/use-case.jpg)
+- [BPMN](diagrams/bpmn.png)
+- [Activity](diagrams/activity.jpg)
 - [ER-диаграмма](diagrams/ERD.png)
 - [Sequence-диаграмма](diagrams/Sequence-diagram.png)
 
